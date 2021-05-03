@@ -7,7 +7,7 @@
 
 ## Documentação útil
 
-1.  [Projeto Automação API]()
+1.  [Projeto Automação API](https://github.com/LuisFelipeSeabra/prova_sicredi_api/tree/master/ViaCepAPI)
 
 ## Projeto Automação API
 Foi Desenvolvida uma automação de testes para a API utilizando Rest-Assured.
