@@ -1,13 +1,8 @@
 # Bem-vindo ao desafio
 
-<div align="center">
-  <img src="https://www.sicredi.com.br/static/assets/novo/logo-cor.svg" width="300px"/>
-</div>
-
 
 ## Documentação útil
 
-1.  [Projeto Automação API](https://github.com/LuisFelipeSeabra/prova_sicredi_api/tree/master/ViaCepAPI)
 
 ## Projeto Automação API
 Foi Desenvolvida uma automação de testes para a API utilizando Rest-Assured.
