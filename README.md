@@ -1,5 +1,10 @@
 # Bem-vindo ao projeto
 
+<div align="center">
+  <img src="https://qaautomationexpert.files.wordpress.com/2021/05/image-103.png" width="300px"/>
+</div>
+
+
 ## Projeto Automação API
 Foi Desenvolvida uma automação de testes para a API utilizando Rest-Assured.
 * URL utilizada: https://viacep.com.br/ws/91060900/json/ 
