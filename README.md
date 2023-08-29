@@ -1,9 +1,5 @@
 # Bem-vindo ao projeto
 
-
-## Documentação útil
-
-
 ## Projeto Automação API
 Foi Desenvolvida uma automação de testes para a API utilizando Rest-Assured.
 * URL utilizada: https://viacep.com.br/ws/91060900/json/ 
